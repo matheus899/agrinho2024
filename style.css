@@ -1,7 +1,6 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Righteous&display=swap');
 body {
-    font-family: "Anton SC";
+    font-family: "Righteous";
     margin: 0;
     padding: 0;
     background-color: #45cc57;
